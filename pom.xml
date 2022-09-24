@@ -149,6 +149,23 @@
       <optional>true</optional>
     </dependency>
   </dependencies>
+  
+  <distributionManagement>
+	
+	    <repository>
+	      <id>nexus</id>
+	      <name>Pety Releases Nexus Repository</name>
+	      <url>http://43.205.196.5:8081/repository/Release/</url>
+	    </repository>
+	    
+	    <snapshotRepository>
+	      <id>nexus</id>
+	      <name>Pety Snapshot Nexus Repository </name>
+	      <url>http://43.205.196.5:8081/repository/snapshot/</url>
+	    </snapshotRepository>
+	    
+	</distributionManagement>
+  
 
   <build>
     <plugins>

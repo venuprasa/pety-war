@@ -12,7 +12,7 @@
             "console": "internalConsole",
             "stopOnEntry": false,
             "mainClass": "org.springframework.samples.petclinic.PetClinicApplication",
-            "projectName": "Aksha-petclinic",
+            "projectName": "spring-petclinic",
             "args": ""
         },
         {

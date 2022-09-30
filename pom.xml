@@ -156,13 +156,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Pety Releases Nexus Repository</name>
+	      <name>Petyreleases Nexus Repository</name>
 	      <url>http://54.196.185.60:8081/repository/petyrelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Pety Snapshot Nexus Repository </name>
+	      <name>Petysnapshot Nexus Repository </name>
 	      <url>http://54.196.185.60:8081/repository/petysnapshot/</url>
 	    </snapshotRepository>
 	    

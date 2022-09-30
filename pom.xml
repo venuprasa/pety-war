@@ -153,17 +153,16 @@
   </dependencies>
   
   <distributionManagement>
-	
 	    <repository>
 	      <id>nexus</id>
 	      <name>Petyreleases Nexus Repository</name>
-	      <url>https://54.196.185.60:8081/repository/petyrelease/</url>
+	      <url>http://54.196.185.60:8081/repository/petyrelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Petysnapshot Nexus Repository </name>
-	      <url>https://54.196.185.60:8081/repository/petysnapshot/</url>
+	      <url>http://54.196.185.60:8081/repository/petysnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
